@@ -1,0 +1,6 @@
+{
+  "name": "MandiMitra AI - Rural Market Intelligence",
+  "description": "Smart selling and market discovery platform helping farmers compare mandi prices, transportation costs, and maximize real net returns.",
+  "requestFramePermissions": ["geolocation", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
